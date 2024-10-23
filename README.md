@@ -22,3 +22,4 @@ Demonstrations and Visualizations: Graphs and heatmaps to illustrate how the KSO
 Conclusion and Future Perspectives: A summary of the advantages and limitations of KSOM, along with suggestions for improvements and future extensions.
 
 For a deeper dive into the theory and code behind KSOM, please visit the Medium article.
+https://medium.com/@MahounaVAYSSIERES/master-kohonen-self-organizing-maps-a-hands-on-guide-to-data-exploration-with-python-fb92f8ebd6f6
